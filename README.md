@@ -17,18 +17,18 @@
 다양한 협업을 통해 많은 경험을 쌓고싶습니다!
 연락처: 010-7605-3242
 ## GitHub Stats 📊
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=shinjae12345&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shinjae12345&layout=compact&theme=radical)
 
 ---
 
 ## Activity & Contributions 🌟
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical)
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=shinjae12345&theme=radical)
 
 ---
 
 ## Let's Connect 🌐
-- [GitHub](https://github.com/YOUR_USERNAME)
-- [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN)
+- [GitHub](https://github.com/shinjae12345)
+- [LinkedIn](https://linkedin.com/in/shinjae12345)
 
